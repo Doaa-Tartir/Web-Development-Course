@@ -1,0 +1,16 @@
+.big-title{
+color: yellow;
+font-size: 10rem;
+font-style: italic;
+}
+
+.big-button{
+color: white;
+background-color: black;
+font-size: 3rem;
+font-style: italic;
+}
+
+body{
+    background-color: grey;
+}
