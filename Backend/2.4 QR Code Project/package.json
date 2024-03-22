@@ -1,0 +1,16 @@
+{
+  "name": "2.4-qr-code-project",
+  "version": "1.0.0",
+  "description": "QR code project using node js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Doaa S.T",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "qr-image": "^3.2.0"
+  }
+}
